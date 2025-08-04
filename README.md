@@ -6,7 +6,7 @@ Hệ thống nhận diện khuôn mặt real-time được xây dựng bằng Py
 
 ## 🎥 Video Demo
 
-Xem video demo hoạt động của hệ thống tại: **[https://youtu.be/0nZeFgcfWTA](https://youtu.be/0nZeFgcfWTA)**
+Xem video demo hoạt động của hệ thống tại: **[https://youtu.be/0nZeFgcfWTA](https://youtu.be/N80tfbg8yKs)**
 
 ### Thông Tin Cơ Bản
 
