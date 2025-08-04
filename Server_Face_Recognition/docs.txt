@@ -1,0 +1,12 @@
+fastapi dev main.py
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+Tổng kết
+Backend FastAPI:
+Endpoint /video-stream sử dụng StreamingResponse để phát video dạng MJPEG.
+Endpoint /ws sử dụng WebSocket để gửi metadata (dữ liệu JSON) cho client.
+Một task nền (send_metadata) giả lập việc gửi kết quả detect của AI theo từng frame.
+
+Frontend ReactJS:
+Sử dụng thẻ <img> để hiển thị video stream.
+Sử dụng WebSocket API để kết nối đến /ws và hiển thị metadata nhận được.

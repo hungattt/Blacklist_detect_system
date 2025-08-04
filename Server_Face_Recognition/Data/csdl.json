@@ -1,0 +1,57 @@
+{
+    "Hoa": {
+        "avata": "Data/avatar/Hoa.png",
+        "full_name": "Nguyễn Thị Hoa",
+        "year_of_birth": 1987,
+        "hometown": "Hà Nội",
+        "id_number": "123456789",
+        "violation": "chộm vặt",
+        "data": [
+            "Data/avatar/Hoa.png"
+        ]
+    },
+    "Hung": {
+        "avata": "Data/avatar/Hung.png",
+        "full_name": "Bùi Xuân Hùng",
+        "year_of_birth": 1987,
+        "hometown": "Hà Nội",
+        "id_number": "123456789",
+        "violation": "chộm vặt",
+        "data": [
+            "Data/avatar/Hung.png"
+        ]
+    },
+    "Huy": {
+        "avata": "Data/avatar/Huy.png",
+        "full_name": "Nguyễn Văn Huy",
+        "year_of_birth": 1987,
+        "hometown": "Hà Nội",
+        "id_number": "123456789",
+        "violation": "chộm vặt",
+        "data": [
+            "Data/avatar/Huy.png"
+        ]
+    },
+    "Ly": {
+        "avata": "Data/avatar/Ly.png",
+        "full_name": "Vũ Thị Ly",
+        "year_of_birth": 1987,
+        "hometown": "Hà Nội",
+        "id_number": "123456789",
+        "violation": "chộm vặt",
+        "data": [
+            "Data/avatar/Ly.png"
+        ]
+    },
+    "Son": {
+        "avata": "Data/avatar/Son.png",
+        "full_name": "Trương Xuân Sơn",
+        "year_of_birth": 1987,
+        "hometown": "Hà Nội",
+        "id_number": "123456789",
+        "violation": "chộm vặt",
+        "data": [
+            "Data/avatar/Son.png"
+        ]
+    }
+}

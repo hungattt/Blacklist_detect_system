@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@import "@fontsource/roboto/300.css";
+@import "@fontsource/roboto/400.css";
+@import "@fontsource/roboto/500.css";
+@import "@fontsource/roboto/700.css";
+
+:root {
+  --font-text: "Roboto";
+  --white-color: #fff;
+  --black-color: #000;
+  --screen-width-resolution: 1920px;
+  --screen-height-resolution: 1080px;
+  --navbar-height: 65px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+  font-family: var(--font-text);
+}
+
+body {
+  overflow: hidden;
+}
+
+html {
+  line-height: 1.6rem;
+  box-sizing: border-box;
+}
+
+@keyframes blink {
+  0% {
+    border-color: #ffbf00; /* golden */
+  }
+  50% {
+    border-color: transparent;
+  }
+  100% {
+    border-color: #ffbf00;
+  }
+}
+
+.blink-border {
+  animation: blink 1s linear infinite;
+}
